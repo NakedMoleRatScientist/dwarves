@@ -12,37 +12,74 @@ FIA: First In-story Appearance
 WFA: Where First Appearance
 DOD: Date of Death
 POD: Place of Death
+POB: Place of Birth
 
 NE is for 'New Era'.
 
-+-+-+
+|=+--+=|
 Marshall Asmund Furfire
-+-+-+
+|=+--+=|
 
 * FA: 0
 * FIA: Day 133, 1234 NE, age 53 years old.
 * WFA: Mountain Pass, IronGear
 * Race: Dwarf
 * Profession: Soldier
-* Sex: Male
-* Country: IronGear
+* Gender: Male
+* Country: IronGear(IG)
 * DOB: 1181 NE
 * DOD: N/A
 * POD: N/A
-* Description: A heroic dwarven knight who had marshalled a small group of elite dwarven soldiers to defend the kingdom of IronGear with or without reinforcement. Horrendously outnumbered, he nonetheless hope to repell the invasion.
+* POB: Timunk, IG
+* Description: A heroic dwarven knight who had marshalled a small group of elite dwarven soldiers to defend the kingdom of IronGear with or without reinforcement. Horrendously outnumbered, he nonetheless hope to repel the invasion.
 
-+-+-+
+|=+--+=|
 Fifth Der Dmung
-+-+-+
+|=+--+=|
 
 * FA: 0
 * FIA: Day 133, 1234 NE, age 33 years old.
 * WFA: Mountain Pass beach, Iron Gear
 * Race: Goblin
 * Profession: Farmer
-* Sex: Female
-* Country: The Dark Dominion
-* DOB: 1201
+* Gender: Female
+* Country: The Dark Dominion(DD)
+* DOB: 1201 NE
 * DOD: N/A
 * POD: N/A
+* POB: Renade, DD
 * Description: A semi-seasoned female goblin soldier, leader of about 200 goblins. She had seen utter failure in the last campaign against IronGear. Her unit had suffered almost total decimation. An utter cannon fodder in the last campaign, she vowed to fight the campaign in a new way.
+
+|=+--+=|
+Grand Wizard Urist Wizbeard
+|=+--+=|
+
+* FA: N/A
+* FIA: N/A
+* WFA: N/A
+* Race: Dwarf
+* Profession: Wizard
+* Gender: Male
+* Country: IronGear
+* DOB: 1114 NE
+* DOD: N/A
+* POD: N/A
+* POB: IronMurdered, GE
+* Description: A middle age dwarven wizard. Arrogant but wise. He had came to believe that the end is near for the IronGear kingdom. Thus, he sought to establish a new kingdom under a new and wise master using his summoning spell. He
+
+|=+--+=|
+Terry Perry
+|=+--+=|
+
+* FA: N/A
+* FIA: N/A
+* WFA: N/A
+* Race: Human
+* Profession: Software engineer
+* Gender: Male
+* Country: United States of America
+* DOB: 1212 NE
+* DOD: N/A
+* POD: N/A
+* POB: New York, New York
+* Description: Summoned by the great wizard Urist Wizbeard, he was quickly ushered into the role of ruler against his well. Nonetheless, he proved a capable ruler and adminstrator, as well inventor, scientist, engineer, amongsts other things. Using the knowledge that he had acquired in his world, he aim to uplift and modernize what's left of IronGear.
